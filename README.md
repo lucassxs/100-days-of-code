@@ -1,7 +1,7 @@
-README
+My Progress
 ================
 
-# I’ve joined the \#100DaysOfCode Challenge
+I’ve joined the \#100DaysOfCode Challenge
 
 ## Contents
 
@@ -12,6 +12,6 @@ README
 
 ## Timeline
 
-| **Day:pushpin:** | **Date  :calendar:** | **Lessons/Tasks Done :alarm_clock:**                       | **Reference Links :link:** |
-|------------------|----------------------|------------------------------------------------------------|----------------------------|
-| Day 1            | June 10, 2022        | Learnt Kotlin Basics [Log 01](log.md#day-1-june-27-monday) |                            |
+| **Day:pushpin:** | **Date  :calendar:** | **Lessons/Tasks Done :alarm_clock:** |
+|------------------|----------------------|--------------------------------------|
+| Day 1            | June 10, 2022        | Fixing Latex code and Blogdown Bug   |

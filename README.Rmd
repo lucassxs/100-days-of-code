@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "My Progress"
 output: github_document
 ---
 
@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# I've joined the #100DaysOfCode Challenge
+I've joined the #100DaysOfCode Challenge
 
 ## Contents
 
@@ -18,6 +18,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Timeline
 
-|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------|-----------------|--------------------|---------------------|
-|Day 1|June 10, 2022| Learnt Kotlin Basics [Log 01](log.md#day-1-june-27-monday)|
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| 
+|------|-----------------|--------------------|
+|Day 1|June 10, 2022| Fixing Latex code and Blogdown Bug |
