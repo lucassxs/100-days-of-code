@@ -21,3 +21,4 @@ I've joined the #100DaysOfCode Challenge
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| 
 |------|-----------------|--------------------|
 |Day 1|June 10, 2022| Fixing Latex code and Blogdown Bug |
+|Day 2|June 11, 2022| Create R Package Structure |
