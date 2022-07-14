@@ -26,3 +26,12 @@
 **Thoughts:** I started the analysis of tidyTuesday weekly, I started by sequesking the libraries that I will use in my script of R. I aggregated all the functions that to generate the first part of the analysis of the most frequent flights in Europe.
 
 **Link to work:** Github
+
+### Day 4: June 13, 2022
+
+
+**Today's Progress**:  Adjustment in R function loop script.
+
+**Thoughts:** I fixed the loop bug in my R function which fetches through an API to generate random posts through the function.
+
+**Link to work:** Github
