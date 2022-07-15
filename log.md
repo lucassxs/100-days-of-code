@@ -23,7 +23,7 @@
 
 **Today's Progress**: Started TidyTueday Weekly using Tidyverse.
 
-**Thoughts:** I started the analysis of tidyTuesday weekly, I started by sequesking the libraries that I will use in my script of R. I aggregated all the functions that to generate the first part of the analysis of the most frequent flights in Europe.
+**Thoughts:** I started the analysis of TidyTuesday weekly, I started by sequesking the libraries that I will use in my script of R. I aggregated all the functions that to generate the first part of the analysis of the most frequent flights in Europe.
 
 **Link to work:** Github
 
@@ -33,5 +33,14 @@
 **Today's Progress**:  Adjustment in R function loop script.
 
 **Thoughts:** I fixed the loop bug in my R function which fetches through an API to generate random posts through the function.
+
+**Link to work:** Github
+
+### Day 4: July 14, 2022
+
+
+**Today's Progress**:  New analysis TidyTueday Weekly using Tidyverse.
+
+**Thoughts:** I developed an analysis of the impacts of COVID-19 on flights from Europe in TidyTuesday's weekly review. I used some aggregation functions from R. I noticed that I need to improve in aggr.
 
 **Link to work:** Github
