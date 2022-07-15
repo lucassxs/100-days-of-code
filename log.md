@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 10, 2022
+### Day 1: July 10, 2022
 
 
 **Today's Progress**: Fixing Latex code and Blogdown Bug.
@@ -9,7 +9,7 @@
 
 **Link to work:** [Álgebra Linear - Fatoração de Cholesky em R](https://www.lucassxs.xyz/calculus/linear-algebra-choleky-r/)
 
-### Day 2: June 11, 2022
+### Day 2: July 11, 2022
 
 
 **Today's Progress**: Create R Package Structure.
@@ -18,7 +18,7 @@
 
 **Link to work:** [Álgebra Linear - Fatoração de Cholesky em R](https://github.com/lucassxs/WeatherMaringa/commit/7692202dba353d22cc3a1208154f65664dc17b95)
 
-### Day 3: June 12, 2022
+### Day 3: July 12, 2022
 
 
 **Today's Progress**: Started TidyTueday Weekly using Tidyverse.
@@ -27,7 +27,7 @@
 
 **Link to work:** Github
 
-### Day 4: June 13, 2022
+### Day 4: July 13, 2022
 
 
 **Today's Progress**:  Adjustment in R function loop script.
