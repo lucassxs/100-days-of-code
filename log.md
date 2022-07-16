@@ -44,3 +44,13 @@
 **Thoughts:** I developed an analysis of the impacts of COVID-19 on flights from Europe in TidyTuesday's weekly review. I used some aggregation functions from R. I noticed that I need to improve in aggr.
 
 **Link to work:** Github
+
+### Day 6: July 15, 2022
+
+
+**Today's Progress**:  Organized my Family of functions from my R code.
+
+**Thoughts:** I organized my Family of functions from my R code inside my R package directory.
+
+**Link to work:** Github
+
