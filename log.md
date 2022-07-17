@@ -50,7 +50,7 @@
 
 **Today's Progress**:  Organized my Family of functions from my R code.
 
-**Thoughts:** I organized my Family of functions from my R code inside my R package directory.
+**Thoughts:** I adjusted the probability and inference functions of my R script, now my functions are able to correctly calculate probability density function of weather data.
 
 **Link to work:** Github
 
