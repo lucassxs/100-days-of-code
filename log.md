@@ -54,3 +54,13 @@
 
 **Link to work:** Github
 
+
+### Day 7: July 16, 2022
+
+
+**Today's Progress**:  I tweaked the probability and inference functions of my R script.
+
+**Thoughts:** I tweaked the probability and inference functions of my R script.
+
+**Link to work:** Github
+
