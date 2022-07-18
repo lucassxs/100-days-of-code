@@ -27,4 +27,5 @@ I've joined the #100DaysOfCode Challenge
 |Day 5|July 14, 2022| New analysis TidyTueday Weekly using Tidyverse|
 |Day 6|July 15, 2022| I organized my Family of functions from my R code|
 |Day 7|July 16, 2022| I tweaked the probability and inference functions of my R script|
+|Day 8|July 17, 2022| 
 
