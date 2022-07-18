@@ -64,3 +64,12 @@
 
 **Link to work:** Github
 
+
+### Day 8: July 17, 2022
+
+
+**Today's Progress**:  Resolved Latex math formula bugs on my blogdown.
+
+**Thoughts:**:  I fixed Latex math formula bugs on my blogdown. The problem was in the Mathjax compilation..
+
+**Link to work:** Github
