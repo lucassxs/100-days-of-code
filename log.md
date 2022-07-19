@@ -73,3 +73,13 @@
 **Thoughts:**:  I fixed Latex math formula bugs on my blogdown. The problem was in the Mathjax compilation..
 
 **Link to work:** Github
+
+
+### Day 9: July 18, 2022
+
+
+**Today's Progress**:  Using numerical methods to obtain an EMV for distribution parameters.
+
+**Thoughts:**:  Using number methods to obtain an EMV (Likelihood Estimator) for the parameters of the distributions, and plot a graph of the likelihood function of the distributions: Binominal, Exponential and Weibull.
+
+**Link to work:** Github
