@@ -23,3 +23,4 @@ I’ve joined the \#100DaysOfCode Challenge
 | Day 7            | July 16, 2022        | I tweaked the probability and inference functions of my R script     |
 | Day 8            | July 17, 2022        | Resolved Latex math formula bugs on my blogdown                      |
 | Day 9            | July 18, 2022        | Using numerical methods to obtain an EMV for distribution parameters |
+| Day 10           | July 19, 2022        | Script development for numerical calculation in Cholesky             |
