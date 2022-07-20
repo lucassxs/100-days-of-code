@@ -83,3 +83,13 @@
 **Thoughts:**:  Using number methods to obtain an EMV (Likelihood Estimator) for the parameters of the distributions, and plot a graph of the likelihood function of the distributions: Binominal, Exponential and Weibull.
 
 **Link to work:** Github
+
+
+### Day 10: July 19, 2022
+
+
+**Today's Progress**:  Script development for numerical calculation in Cholesky.
+
+**Thoughts:**:  Application of a positive Hermitian Matrix defined in R. And use of R's chol function to develop the Cholesky factorization script.
+
+**Link to work:** Github
